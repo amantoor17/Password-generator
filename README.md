@@ -3,7 +3,7 @@
 **Overview** <br>
 The Password Generator is a simple and efficient tool designed to create strong and secure passwords of varying lengths and complexity. Users can customize the generated password to include uppercase letters, lowercase letters, numbers, and symbols.
 
-**Features**<br>
+**Features**
 1. Generate passwords of desired length from 0 to 20 characters.
 2. Customize password characters to include:
     - Uppercase letters (A-Z)
@@ -15,12 +15,12 @@ The Password Generator is a simple and efficient tool designed to create strong 
 **Installation**<br>
 To use the Password Generator, simply clone the repository and open the index.html file in your browser:
 
-**bash**<br>
+**bash**
 1. git clone https://github.com/your-username/password-generator.git
 2. cd password-generator
 3. open index.html
 
-**Usage**<br>
+**Usage**
 1. Open the index.html file in your browser.
 2. Select the desired password length (0-20).
 3. Choose the character sets you want to include in the password:
